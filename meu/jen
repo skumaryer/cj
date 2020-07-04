@@ -1,1 +1,15 @@
-app
+list team = []
+list grp = []
+
+sample text please ignore below where the teams has to be updated grp= new team name
+  "grps",
+  "check",
+  "team1,teamA,teamB,teamC,teamD,teamE"
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
