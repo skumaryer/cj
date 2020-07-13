@@ -4,7 +4,7 @@ list grp = []
 sample text please ignore below where the teams has to be updated grp= new team name
   "grps",
   "check",
-  "team1,team25,team28,team30,team31,team43,team55,team65,team66,team67,team68,team69,team79,team89,team100,team101,team1010,team1011,team1012,team1015,team1018,teamA,teamB,teamC,teamD,teamE"
+  "team1,team25,team28,team30,team31,team43,team55,team65,team66,team67,team68,team69,team79,team89,team100,team101,team1010,team1011,team1012,team1015,team1018,team1019,teamA,teamB,teamC,teamD,teamE"
   null,
   null,
   null,
